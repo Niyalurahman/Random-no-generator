@@ -1,0 +1,33 @@
+body{
+    background-color: #F7EDB3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h2{
+    font-size: xx-large;
+}
+
+div{
+    text-align: center;
+}
+
+button{
+    padding: 10px 20px;
+    font-size: 17px;
+    background-color: #5B81D3 ;
+    border :none;
+    border-radius: 1rem;
+    
+}
+
+button:hover{
+    background-color: #9EB3E0 ;
+}
+
+p{
+    margin-top: 25px;
+    font-size:20px;
+}
